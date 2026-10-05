@@ -1,0 +1,8 @@
+blend_with_background:
+- ''
+hide:
+- uri_prefix: "gemini://station.martinrue.com/"
+  alt_text: "Station logo"
+- uri_prefix: "gemini://station.martinrue.com/davep"
+  alt_text: "User image"
+tooltips: true
