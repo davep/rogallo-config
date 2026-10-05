@@ -18,5 +18,5 @@ buttons:
 - command: ToggleView
   label: ⇋
 can_get_focus: false
-show_tooltips: true
+show_tooltips: false
 visible: true
